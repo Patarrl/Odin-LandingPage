@@ -1,2 +1,2 @@
 # Odin-LandingPage
-Does this work
+Learning how to make a landing page from scratch. I need to learn how to optimize my css, but I got the format of the page down. Also note: I need to learn how to not hard code how big elements should be. 
